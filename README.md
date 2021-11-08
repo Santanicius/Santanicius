@@ -22,9 +22,7 @@ Sou o **Vinícius Santana**, estudo Ciência da Computação pela [`FIPP - Facul
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-025457?logo=arduino)
 
-
-![stats](https://github-readme-stats.vercel.app/api?username=Santanicius&show_icons=true&theme=midnight-purple)
-
+![](https://github.com/Santanicius/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Santanicius/github-stats/blob/master/generated/languages.svg)
 
 
