@@ -25,6 +25,8 @@ Sou o **Vinícius Santana**, estudo Ciência da Computação pela [`FIPP - Facul
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Santanicius&show_icons=true&theme=midnight-purple)
 
+![](https://github.com/Santanicius/github-stats/blob/master/generated/languages.svg)
+
 
 ## 🤝 Contact
 
